@@ -1,0 +1,7 @@
+.green-button {
+  color: green;
+  background-color: red;
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+}

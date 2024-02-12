@@ -1,0 +1,10 @@
+$bg-color: red;
+$text-color: green;
+
+.green-button {
+  color: $text-color;
+  background-color: $bg-color;
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+}
